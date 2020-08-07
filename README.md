@@ -15,4 +15,4 @@
 - ⚡ Fun fact: I never sleep cause sleep is the cousin of death
 
 --- 
-![T0biii github stats](https://github-readme-stats.vercel.app/api?username=T0biii)
+![T0biii github stats](https://github-readme-stats.vercel.app/api?username=T0biii&show_icons=true&theme=synthwave)
