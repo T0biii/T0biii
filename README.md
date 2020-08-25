@@ -17,3 +17,5 @@
 
 --- 
 ![T0biii github stats](https://github-readme-stats.t0biii.vercel.app/api?username=T0biii&show_icons=true&theme=bear)
+
+[![Spotify](novatorem-inky.vercel.app/api/spotify)](https://open.spotify.com/user/tobiasm99)
