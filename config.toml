@@ -1,0 +1,53 @@
+baseURL = 'https://t0biii.dev/'
+languageCode = 'de'
+defaultcontentlanguage = "de"
+title = 'Hi there 👋 | T0biii'
+theme = "hugo-coder"
+
+[params]
+  author = "T0biii"
+  info = "IT-Systemadministrator"
+  description = "T0biii personal website"
+  keywords = "developer,personal"
+  avatarurl = "images/avatar.png"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/favicon-32x32.png"
+  favicon_16 = "/favicon-16x16.png"
+
+  since = 1999
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+  # Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/T0biii/"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/T0biii/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/MertoFrei/"
+
+
+# Menu links
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  url  = "/"
