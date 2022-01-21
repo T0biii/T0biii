@@ -51,3 +51,8 @@ theme = "hugo-coder"
   name = "Home"
   weight = 1
   url  = "/"
+
+[[menu.main]]
+  name = "Impressum"
+  weight = 2
+  url = "impressum/"
