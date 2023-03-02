@@ -6,7 +6,7 @@ theme = "hugo-coder"
 
 [params]
   author = "T0biii"
-  info = "IT-Systemadministrator"
+  info = "Supporter Collaboration & Cloudservices"
   description = "T0biii personal website"
   keywords = "developer,personal"
   avatarurl = "images/avatar.png"
