@@ -47,7 +47,7 @@ theme = "hugo-coder"
 
 
 # Menu links
-[[menu.main]]
-  name = "Home"
-  weight = 1
-  url  = "/"
+#[[menu.main]]
+#  name = "Home"
+#  weight = 1
+#  url  = "/"
