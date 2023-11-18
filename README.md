@@ -12,7 +12,6 @@
 - 📫 How to reach me: ...
 
 -->
-- ⚡ Fun fact: I never sleep cause sleep is the cousin of death
 - 😄 Pronouns: he/him
 - 🏠 From Germany
 
