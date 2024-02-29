@@ -9,7 +9,7 @@ theme = "hugo-coder"
   info = "Supporter Collaboration & Cloudservices"
   description = "T0biii personal website"
   keywords = "developer,personal"
-  avatarurl = "images/avatar.png"
+  avatarurl = "images/avatar.webp"
   #gravatar = "john.doe@example.com"
 
   favicon_32 = "/favicon-32x32.png"
