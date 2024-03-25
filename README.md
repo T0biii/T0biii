@@ -17,6 +17,6 @@
 
 --- 
 ### GitHub Stats
-[![T0biii github stats](https://github-readme-stats.t0biii.dev/api?username=T0biii&show_icons=true&theme=bear)](https://github.com/T0biii)
+[![T0biii github stats](https://github-readme-stats.t0biii.dev/api?username=T0biii&show_icons=true&theme=transparent))](https://github.com/T0biii)
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.t0biii.dev/api/spotify)](https://open.spotify.com/user/tobiasm99)
