@@ -16,4 +16,12 @@ Germany&lt;/p>
  &lt;span class="sr-only">Link zu Überschrift&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;p>&lt;a href="mailto:info@tobias.bayern" >info@tobias.bayern&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;a href="mailto:info@tobias.bayern" >info@tobias.bayern&lt;/a>&lt;/p>
+&lt;h2 id="telefon">
+ Telefon
+ &lt;a class="heading-link" href="#telefon">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link zu Überschrift">&lt;/i>
+ &lt;span class="sr-only">Link zu Überschrift&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>+49 (0) 1522 2070757&lt;/p></description></item></channel></rss>
