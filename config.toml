@@ -3,6 +3,7 @@ languageCode = 'de'
 defaultcontentlanguage = "de"
 title = 'Hi there 👋 | T0biii'
 theme = "hugo-coder"
+enableGitInfo = true
 
 [params]
   author = "T0biii"
