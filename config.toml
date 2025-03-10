@@ -21,6 +21,7 @@ theme = "hugo-coder"
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
+  commit = "https://github.com/T0biii/T0biii/tree/"
 
 [taxonomies]
   category = "categories"
@@ -40,9 +41,12 @@ theme = "hugo-coder"
   weight = 2
   url = "https://gitlab.com/T0biii/"
 
-
 # Menu links
-#[[menu.main]]
-#  name = "Home"
-#  weight = 1
-#  url  = "/"
+[[menu.main]]
+  name = "Age Counter"
+  weight = 1
+  url  = "https://age.t0biii.dev"
+[[menu.main]]
+  name = "Tower of Hanoi"
+  weight = 2
+  url  = "https://towerofhanoi.t0biii.dev/"
