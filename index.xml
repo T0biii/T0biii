@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hi there 👋 | T0biii</title><link>https://t0biii.dev/</link><description>Recent content on Hi there 👋 | T0biii</description><generator>Hugo</generator><language>de</language><atom:link href="https://t0biii.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Impressum</title><link>https://t0biii.dev/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://t0biii.dev/impressum/</guid><description>&lt;h2 id="anschrift">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hi there 👋 | T0biii</title><link>https://t0biii.dev/</link><description>Recent content on Hi there 👋 | T0biii</description><generator>Hugo</generator><language>de</language><atom:link href="https://t0biii.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Impressum</title><link>https://t0biii.dev/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://t0biii.dev/impressum/</guid><description>&lt;h2 id="anschrift"&gt;
  Anschrift
- &lt;a class="heading-link" href="#anschrift">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link zu Überschrift">&lt;/i>
- &lt;span class="sr-only">Link zu Überschrift&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>Tobias Merkens&lt;br>
-Am Münchfeld 21&lt;br>
-80999 München&lt;br>
-Germany&lt;/p>
-&lt;h2 id="e-mail-addresse">
+ &lt;a class="heading-link" href="#anschrift"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link zu Überschrift"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link zu Überschrift&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Tobias Merkens&lt;br&gt;
+Am Münchfeld 21&lt;br&gt;
+80999 München&lt;br&gt;
+Germany&lt;/p&gt;
+&lt;h2 id="e-mail-addresse"&gt;
  E-Mail Addresse
- &lt;a class="heading-link" href="#e-mail-addresse">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link zu Überschrift">&lt;/i>
- &lt;span class="sr-only">Link zu Überschrift&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>&lt;a href="mailto:info@tobias.bayern" >info@tobias.bayern&lt;/a>&lt;/p>
-&lt;h2 id="telefon">
+ &lt;a class="heading-link" href="#e-mail-addresse"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link zu Überschrift"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link zu Überschrift&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href="mailto:info@tobias.bayern" &gt;info@tobias.bayern&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="telefon"&gt;
  Telefon
- &lt;a class="heading-link" href="#telefon">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link zu Überschrift">&lt;/i>
- &lt;span class="sr-only">Link zu Überschrift&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>+49 (0) 1522 2070757&lt;/p></description></item></channel></rss>
+ &lt;a class="heading-link" href="#telefon"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link zu Überschrift"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link zu Überschrift&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;+49 (0) 1522 2070757&lt;/p&gt;</description></item></channel></rss>
