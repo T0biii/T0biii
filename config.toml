@@ -7,7 +7,7 @@ enableGitInfo = true
 
 [params]
   author = "T0biii"
-  info = "Supporter Collaboration & Cloudservices"
+  info = "Administrator Collaboration & Cloud Services"
   description = "T0biii personal website"
   keywords = "developer,personal"
   avatarurl = "images/avatar.webp"
