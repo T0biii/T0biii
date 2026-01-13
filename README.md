@@ -19,7 +19,7 @@
 ### GitHub Stats
 [![T0biii github stats](https://github-readme-stats.t0biii.dev/api?username=T0biii&show_icons=true&theme=transparent)](https://github.com/T0biii)
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.t0biii.dev/api/spotify)](https://open.spotify.com/user/tobiasm99)
+[![Spotify](https://novatorem.t0biii.dev/api/spotify)](https://github.com/T0biii)
 --- 
 
 [![An image of @t0biii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/t0biii)](https://holopin.io/@t0biii)
