@@ -41,6 +41,11 @@ enableGitInfo = true
   icon = "fa-brands fa-gitlab fa-2x"
   weight = 2
   url = "https://gitlab.com/T0biii/"
+[[params.social]]
+  name = "Codeberg"
+  icon = "fa-brands fa-codeberg fa-2x"
+  weight = 3
+  url = "https://codeberg.org/T0biii"
 
 # Menu links
 [[menu.main]]
